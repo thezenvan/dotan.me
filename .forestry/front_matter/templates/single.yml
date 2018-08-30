@@ -15,3 +15,5 @@ fields:
 - type: file
   name: picture
   label: picture
+pages:
+- content/about.md
