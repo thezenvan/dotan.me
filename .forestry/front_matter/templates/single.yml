@@ -1,0 +1,17 @@
+---
+label: single
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: title
+  name: title
+  description: it's a title
+  config:
+    required: true
+- type: textarea
+  name: content
+  label: content
+- type: file
+  name: picture
+  label: picture
